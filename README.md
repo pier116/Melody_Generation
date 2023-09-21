@@ -2,7 +2,7 @@
 Resources to go with my talk on music generation from 9/21/23
 
 ## Useful links from our presentation  
-Presentation: *will be added soon!*  
+Presentation: https://www.canva.com/design/DAFvHlhkGU4/m8y0GY7DQzOr_gQ3yTJjaQ/edit?utm_content=DAFvHlhkGU4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton    
 
 ESAC data set: http://www.esac-data.org/  
 
