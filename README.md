@@ -1,15 +1,15 @@
 # Melody_Generation
 Resources to go with my talk on music generation from 9/21/23
 
-## Useful links from our presentation
-Presentation: *will be added soon!*
-ESAC data set: http://www.esac-data.org/
-Music21: http://web.mit.edu/music21/
-Keras: https://keras.io/
+## Useful links from our presentation  
+Presentation: *will be added soon!*  
+ESAC data set: http://www.esac-data.org/  
+Music21: http://web.mit.edu/music21/  
+Keras: https://keras.io/  
 
 ## Get more involved with machine learning!
-Ultimate resources on deep learning that I'd recommend: https://github.com/ChristosChristofidis/awesome-deep-learning
-Father of machine learning tutorials: https://www.andrewng.org/courses/
+Ultimate resources on deep learning that I'd recommend: https://github.com/ChristosChristofidis/awesome-deep-learning  
+Father of machine learning tutorials: https://www.andrewng.org/courses/  
 
 
 ## Music Generation:
