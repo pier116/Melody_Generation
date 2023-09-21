@@ -3,6 +3,7 @@ Resources to go with my talk on music generation from 9/21/23
 
 ## Useful links from our presentation
 Presentation: *will be added soon!*
+ESAC data set: http://www.esac-data.org/
 Music21: http://web.mit.edu/music21/
 Keras: https://keras.io/
 
